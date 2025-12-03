@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-go get github.com/nickxudotme/db-rate-limit
+go get github.com/nickxudotme/dbratelimit@v0.0.1
 ```
 
 ## 快速开始
