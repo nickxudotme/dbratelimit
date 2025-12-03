@@ -1,4 +1,4 @@
-module dbratelimit
+module github.com/nickxudotme/dbratelimit
 
 go 1.18
 
